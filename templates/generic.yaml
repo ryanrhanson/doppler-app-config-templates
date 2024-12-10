@@ -43,3 +43,7 @@ projects:
       prd:
         ENV: 'production'
         API_KEY: ''
+    
+    #Set secret notes, this is a project-level attribute and applies to the secret in all environments.
+    secrets_notes:
+      API_KEY: 'Get an api key!'
