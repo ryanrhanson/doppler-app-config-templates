@@ -8,7 +8,7 @@ Contributions Welcome!
 
 [Template source](templates/generic.yaml)
 
-[![Import to Doppler](https://raw.githubusercontent.com/DopplerUniversity/app-config-templates/main/doppler-button.svg)](https://dashboard.doppler.com/workplace/template/import?template=https%3A%2F%2Fgithub.com%2FDopplerUniversity%2Fapp-config-templates%2Fblob%2Fmain%2Ftemplates%2Fgeneric.yaml)
+[![Import to Doppler](https://raw.githubusercontent.com/ryanrhanson/doppler-app-config-templates/main/doppler-button.svg)](https://dashboard.doppler.com/workplace/template/import?template=https%3A%2F%2Fgithub.com%2Fryanrhanson%2Fdoppler-app-config-templates%2Fblob%2Fmain%2Ftemplates%2Fgeneric.yaml)
 
 ## MongoDB TLS
 
