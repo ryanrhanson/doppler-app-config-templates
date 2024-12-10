@@ -1,6 +1,6 @@
 projects:
-  - name: 'your-project' # Name may contain lowercase letters, spaces, numbers, hyphens, and underscores
-    description: 'Your project description'
+  - name: 'template-project' # Name may contain lowercase letters, spaces, numbers, hyphens, and underscores
+    description: 'This is a project made from a template'
 
     # List of totally customizable environments, e.g Test, Stage, QA, CI-CD
     environments:
